@@ -1,5 +1,4 @@
-# A Simple RayCast AI Use OpenAI
-
+# A Simple RayCast Extension Use OpenAI API
 ## Install
 1. clone this repo
 2. `npm install`

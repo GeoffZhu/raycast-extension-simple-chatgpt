@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "Simple ChatGPT",
+  "name": "ai",
   "title": "Simple ChatGPT",
-  "description": "",
+  "description": "A Simple RayCast AI Use OpenAI",
   "icon": "command-icon.png",
   "author": "GeoffZhu",
   "license": "MIT",
